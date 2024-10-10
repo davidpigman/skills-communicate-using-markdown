@@ -45,3 +45,10 @@ print (f"student_scores {student_scores}")
 #Scores 71 - 80: Grade = "Acceptable" 
 #Scores 70 or lower: Grade = "Fail" 
 ```
+
+
+- [x] Will I get a job?
+- [ ] Will I make a lot of money?
+- [ ] Will I eat discarded sandwiches in the trash can?
+
+ 
